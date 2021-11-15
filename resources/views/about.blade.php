@@ -17,14 +17,14 @@
   <link rel="stylesheet" href="../assets/css/theme.css">
 </head>
 <body>
-  
+
   <!-- Back to top button -->
   <div class="back-to-top"></div>
 
   <header>
   <nav class="navbar navbar-expand-lg navbar-light bg-white sticky" data-offset="500">
       <div class="container">
-        <a href="#" class="navbar-brand">Seo<span class="text-primary">Gram.</span></a>
+        <a href="#" class="navbar-brand"><span class="text-primary">Kelapah.</span></a>
 
         <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -41,6 +41,9 @@
             <li class="nav-item">
               <a class="nav-link" href="/blog">Blog</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/blog">News</a>
+              </li>
             <li class="nav-item">
               <a class="btn btn-primary ml-lg-2" href="/classification">Waste Classification</a>
             </li>
@@ -70,103 +73,33 @@
   <div class="page-section">
     <div class="container">
       <div class="row align-items-center">
-        <div class="col-lg-6 py-3">
-          <h2 class="title-section">The number #1 SEO Service Company</h2>
+        <div class="col-lg-15 py-3">
+          <h2 class="title-section">Profile</h2>
           <div class="divider"></div>
 
-          <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
-          <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.</p>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum nisi saepe eum ipsa. Tempore dolore itaque est blanditiis libero fugiat, ea nostrum nam at tempora quis, facilis officiis nemo mollitia.</p>
+            <p>Bank Sampah Malang (BSM) adalah suatu lembaga yang berbadan hukum koperasi yang pendiriannya difasilitasi oleh Pemerintah Kota Malang melalui Dinas Kebersihan dan Pertamanan untuk membantu dalam hal pemberdayaan masyarakat untuk ikut serta aktif dalam pengolahan sampah dari sumbernya (rumah tangga). Seiring perjalanan waktu BSM menjadi mitra Kota Malang dalam hal membina, melatih, mendampingi dalam pengolahan sampah 3R (reduce, reuse and recycle) masyarakat Kota Malang yang mandiri dilihat dari biaya operasional yang dapat dibiayai sendiri.</p>
         </div>
         <div class="col-lg-6 py-3">
-          <div class="img-fluid py-3 text-center">
-            <img src="../assets/img/about_frame.png" alt="">
-          </div>
+            <div class="img-fluid py-3 text-center">
+              <img src="../assets/img/3.jpg" alt="">
+            </div>
+        </div>
+        <div class="col-lg-15 py-3">
+            <p>Gerakan BSM yang menggunakan pendekatan ekonomi saat ini sudah dapat merubah mindset tentang sampah yang dulunya sumber masalah sekarang telah berubah menjadi sampah adalah rupiah (berkah), merubah perilaku yang dulunya masyarakat membuang sampah di tong sampah ataupun di sungai sudah berubah sampah disetor ke BSM untuk dijadikan rupiah, dan menjadikan lingkungan yang bersih dan sehat seiring dengan perubahan mindset dan perilaku yang sudah menjadi budaya.</p>
+        </div>
+        <div class="col-lg-6 py-3">
+            <div class="img-fluid py-3 text-center">
+              <img src="../assets/img/4.jpg" alt="">
+            </div>
+        </div>
+        <div class="col-lg-15 py-3">
+            <div class="col-lg-15 py-3">
+            <p>Gerakan BSM yang menggunakan pendekatan ekonomi saat ini sudah dapat merubah mindset tentang sampah yang dulunya sumber masalah sekarang telah berubah menjadi sampah adalah rupiah (berkah), merubah perilaku yang dulunya masyarakat membuang sampah di tong sampah ataupun di sungai sudah berubah sampah disetor ke BSM untuk dijadikan rupiah, dan menjadikan lingkungan yang bersih dan sehat seiring dengan perubahan mindset dan perilaku yang sudah menjadi budaya.</p>
+            </div>
         </div>
       </div>
     </div>
   </div>
-
-  <div class="page-section">
-    <div class="container">
-      <div class="text-center">
-        <div class="subhead">Pricing Plan</div>
-        <h2 class="title-section">Choose plan the right for you</h2>
-        <div class="divider mx-auto"></div>
-      </div>
-      <div class="row mt-5">
-        <div class="col-lg-4 py-3">
-          <div class="card-pricing">
-            <div class="header">
-              <div class="pricing-type">Basic</div>
-              <div class="price">
-                <span class="dollar">$</span>
-                <h1>39<span class="suffix">.99</span></h1>
-              </div>
-              <h5>Per Month</h5>
-            </div>
-            <div class="body">
-              <p>25 Analytics <span class="suffix">Campaign</span></p>
-              <p>1,300 Change <span class="suffix">Keywords</span></p>
-              <p>Social Media <span class="suffix">Reviews</span></p>
-              <p>1 Free <span class="suffix">Optimization</span></p>
-              <p>24/7 <span class="suffix">Support</span></p>
-            </div>
-            <div class="footer">
-              <a href="#" class="btn btn-pricing btn-block">Subscribe</a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 py-3">
-          <div class="card-pricing marked">
-            <div class="header">
-              <div class="pricing-type">Standar</div>
-              <div class="price">
-                <span class="dollar">$</span>
-                <h1>59<span class="suffix">.99</span></h1>
-              </div>
-              <h5>Per Month</h5>
-            </div>
-            <div class="body">
-              <p>25 Analytics <span class="suffix">Campaign</span></p>
-              <p>1,300 Change <span class="suffix">Keywords</span></p>
-              <p>Social Media <span class="suffix">Reviews</span></p>
-              <p>1 Free <span class="suffix">Optimization</span></p>
-              <p>24/7 <span class="suffix">Support</span></p>
-            </div>
-            <div class="footer">
-              <a href="#" class="btn btn-pricing btn-block">Subscribe</a>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 py-3">
-          <div class="card-pricing">
-            <div class="header">
-              <div class="pricing-type">Professional</div>
-              <div class="price">
-                <span class="dollar">$</span>
-                <h1>99<span class="suffix">.99</span></h1>
-              </div>
-              <h5>Per Month</h5>
-            </div>
-            <div class="body">
-              <p>25 Analytics <span class="suffix">Campaign</span></p>
-              <p>1,300 Change <span class="suffix">Keywords</span></p>
-              <p>Social Media <span class="suffix">Reviews</span></p>
-              <p>1 Free <span class="suffix">Optimization</span></p>
-              <p>24/7 <span class="suffix">Support</span></p>
-            </div>
-            <div class="footer">
-              <a href="#" class="btn btn-pricing btn-block">Subscribe</a>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </div> <!-- .container -->
-  </div> <!-- .page-section -->
 
   <footer class="page-footer bg-image" style="background-image: url(../assets/img/world_pattern.svg);">
     <div class="container">
